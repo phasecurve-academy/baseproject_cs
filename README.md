@@ -17,4 +17,3 @@ To run the tests in this project:
 
 ### [Fizz Buzz](FizzBuzz.md)
 
-~~~~
