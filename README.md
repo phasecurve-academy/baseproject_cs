@@ -12,3 +12,9 @@ First check that the project builds on your machine:
 To run the tests in this project:
 
 ```dotnet test```
+
+## Katas
+
+### [Fizz Buzz](FizzBuzz.md)
+
+~~~~
