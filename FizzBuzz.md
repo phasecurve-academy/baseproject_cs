@@ -1,7 +1,7 @@
 ### Fizz Buzz
 
 Using TDD create an algorithm that will print out the string representation of a number .
-1. If the number is a multiple of 3 then it should print "fizz" instead
+1. If the number is a multiple of 3 then it should print "Fizz" instead
 2. If it is a multiple of 5 then should print "Buzz" instead.
 3. If it is a multiple of 3 and 5 then should print "FizzBuzz" instead.
 
