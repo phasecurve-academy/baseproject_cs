@@ -15,7 +15,7 @@ Examples:
 - `10` returns `"Buzz"`
 - `15` returns `"FizzBuzz"`
 
-Pseudooode:
+Pseudocode:
 
 ```
 BEGIN function "Converter" with INPUT num:
